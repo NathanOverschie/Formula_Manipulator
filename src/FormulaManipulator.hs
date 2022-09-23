@@ -1,7 +1,7 @@
 -- |
 -- Module      : FormulaManipulator
 -- Description : Manipulate formulas and expressions represented by `Expr` values
--- Copyright   : STUDENT NAME 1 (ID)
+-- Copyright   : Marcell Merenyi (1425293)
 --               STUDENT NAME 2 (ID)
 --
 -- `FormulaManipulator` offers functions to manipulate, evaluate, and print
