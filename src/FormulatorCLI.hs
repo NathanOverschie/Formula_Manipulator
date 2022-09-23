@@ -2,7 +2,7 @@
 Module      : FormulatorCLI
 Description : The command-line interface for the formulator program
 Copyright   : Marcell Merenyi (1425293)
-              STUDENT NAME 2 (ID)
+              Nathan Overschie (1454218)
 
 The command-line interface for the formulator program. Parses and processes
 command-line arguments. Manipulates expressions according to the specification
