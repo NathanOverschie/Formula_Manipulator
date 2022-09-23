@@ -1,7 +1,7 @@
 {-|
 Module      : FormulatorCLI
 Description : The command-line interface for the formulator program
-Copyright   : STUDENT NAME 1 (ID)
+Copyright   : Marcell Merenyi (1425293)
               STUDENT NAME 2 (ID)
 
 The command-line interface for the formulator program. Parses and processes
